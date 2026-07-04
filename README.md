@@ -2,7 +2,7 @@
 
 # 🚀 PortScanX
 
-<img src="https://github.com/ssriram-siva/PortScanX/blob/main/assets/demo.png" alt="PortScanX Banner" width="100%">
+<img src="https://github.com/ssriram-siva/PortScanX/blob/main/assets/logo.png" alt="PortScanX Banner" width="100%">
 
 ### Fast • Lightweight • Python TCP Port Scanner
 
