@@ -53,7 +53,7 @@ PortScanX/
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PortScanX.git
+git clone https://github.com/ssriram-siva/PortScanX.git
 
 cd PortScanX
 
