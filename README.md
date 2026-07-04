@@ -45,7 +45,7 @@ PortScanX/
 ## 🖼 Demo
 
 <p align="center">
-<img src="https://github.com/ssriram-siva/PortScanX/blob/main/assets/demo1.png" width="800">
+<img src="https://github.com/ssriram-siva/PortScanX/blob/main/assets/demo.png" width="800">
 </p>
 
 ---
