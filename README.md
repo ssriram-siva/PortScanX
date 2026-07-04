@@ -36,8 +36,8 @@ PortScanX/
 ├── README.md
 ├── LICENSE
 └── assets/
-    ├── banner.gif
-    └── demo.gif
+    ├── logo.png
+    └── demo.png
 ```
 
 ---
