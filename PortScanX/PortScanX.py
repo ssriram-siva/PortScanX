@@ -41,7 +41,7 @@ def scanPort(ipaddr,port):
         x.connect((ipaddr,port))
         print(Fore.GREEN + f"[+] Port {port} is Open")
 
-    except:
+    except OSError:
         pass
 
     finally : 
